@@ -1,9 +1,5 @@
-# Eyek Keyboard
-
-|||
-|---|---|
-| ![App Icon](https://raw.githubusercontent.com/heisantosh/EyekKeyboard/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png) | An Android soft keyboard for typing in Meetei Mayek |
-
+# Soft Keyboard
+c o a, b d, e g, q p, f t, h n, l i j, m w, r y, s z, u v, k x
 
 ## Screnshots
 
